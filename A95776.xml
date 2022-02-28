@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reduction of episcopacie unto the form of synodical government received in the ancient Church: proposed in the year 1641. as an expedient for the prevention of those troubles, which afterwards did arise about the matter of church-government. / By the most reverend and learned father of our Church Dr. James Usher, late Arch-Bishop of Armagh and Primate of all Ireland. A true copy set forth by Nicolas Bernard, D.D. preacher to the Honourable Society of Grayes Inne occasioned by an imperfect copy lately printed.</title>
+            <author>Ussher, James, 1581-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95776</idno>
+            <idno type="STC">Wing U217</idno>
+            <idno type="STC">Thomason E897_1</idno>
+            <idno type="STC">ESTC R203884</idno>
+            <idno type="EEBO-CITATION">99863675</idno>
+            <idno type="PROQUEST">99863675</idno>
+            <idno type="VID">168431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168431)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E897[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reduction of episcopacie unto the form of synodical government received in the ancient Church: proposed in the year 1641. as an expedient for the prevention of those troubles, which afterwards did arise about the matter of church-government. / By the most reverend and learned father of our Church Dr. James Usher, late Arch-Bishop of Armagh and Primate of all Ireland. A true copy set forth by Nicolas Bernard, D.D. preacher to the Honourable Society of Grayes Inne occasioned by an imperfect copy lately printed.</title>
+                  <author>Ussher, James, 1581-1656.</author>
+                  <author>Bernard, Nicholas, d. 1661.</author>
+               </titleStmt>
+               <extent>[6], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C. for R. Royston at the Angel in Ivie-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168431:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <p>THE REDUCTION OF EPISCOPACIE Unto the Form of Synodical Government Received in the ANCIENT CHURCH:</p>
+            <p>Propoſed in the year 1641. as an Expedient for the prevention of thoſe Troubles, which afterwards did ariſe about the matter of <hi>Church-Government.</hi>
+            </p>
+            <p>By the moſt Reverend and learned Father of our Church. D<hi rend="sup">r.</hi> 
+               <hi>JAMES <g ref="char:V">Ʋ</g>SHER</hi> late Arch-Biſhop of <hi>Armagh</hi> and Primate of all <hi>Ireland.</hi>
+            </p>
+            <p>A true Copy ſet forth by <hi>NICOLAS BERNARD,</hi> D. D. Preacher to the Honourable Society of <hi>Grayes Inne</hi> occaſioned by an imperfect Copy lately Printed.</p>
+            <p>
+               <date>
+                  <add>Decemb: 17</add>
+               </date> 
+               <hi>LONDON,</hi> Printed by <hi>E.C.</hi> for <hi>R. Royſton</hi> at the Angel in <hi>Ivie-lane,</hi> 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168431:2"/>
+            <!-- PDF PAGE 106 -->
+            <pb facs="tcp:168431:2"/>
+            <!-- PDF PAGE 106 -->
+            <head>To the Reader.</head>
+            <p>THE late publiſhing of this Treatiſe from ſome different Copy, hath compelled me thus to haſten out a more <hi>Perfect one,</hi> according to the <hi>Original</hi> given me of late years by this <hi>Moſt Reverend</hi> Perſon under his own hand, which I had a long time in my cuſtody; Theſe de<g ref="char:EOLhyphen"/>fects or miſtakes following were in the former im<g ref="char:EOLhyphen"/>preſsion, and are amended in this.</p>
+            <p n="1">
+               <hi>1.</hi> The not mentioning the time of the Pro<g ref="char:EOLhyphen"/>poſal, and intimating as if it had been late<g ref="char:EOLhyphen"/>ly <hi>compoſed by him for the compremiſing of the now differences, and the preventing of thoſe troubles that may ariſe,</hi> &amp;c. Whereas it was firſt <hi>propoſed in the year 1641.</hi> by way of
+<pb facs="tcp:168431:3"/>
+               <!-- PDF PAGE 107 -->accommodation then, and <hi>as an Expedient for the prevention</hi> of what fell out <hi>afterwards about the matter of Church-Government.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> The printing of the Marginal notes in the I, II, III, IV, Propoſitions, Parallelling them with the then cuſtomes of <hi>Scotland;</hi> theſe by his orders to me were to be wholly left out, if ever they ſhould be thought fit to be publiſh<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="3">
+               <hi>3.</hi> The omiſsion of the Marginal note out of St. <hi>Jerome</hi> in the third Propoſition, which is here ſupplied.</p>
+            <p n="4">
+               <hi>4.</hi> Some different words, (as company for <hi>com<g ref="char:EOLhyphen"/>munity,</hi> Primate for <hi>Archbiſhop,</hi> forme of ordaining Miniſters for <hi>the Book of Ordina<g ref="char:EOLhyphen"/>tion,</hi> &amp;c.) as the neglect of that diſtinction of Characters for the quotations in Engliſh, and other paſſages which were deſigned by his own hand.</p>
+            <p n="5">
+               <hi>5.</hi> The <hi>Poſtſcript</hi> is ſet forth ſo defective, that the Reader might interpret it to be his own atteſta<g ref="char:EOLhyphen"/>tion, whereas it was the draught of an approba<g ref="char:EOLhyphen"/>tion of it by ſome others of eminency both for learning and piety, then living, who were ready to have ſubſcribed it. The Original given to me,
+<pb facs="tcp:168431:3"/>
+               <!-- PDF PAGE 107 -->having this Introduction (which was notin the former impreſsion) <hi>viz. We are of the Judgement that</hi> the Forme of Government here propoſed, <hi>&amp;c.</hi> I ſuppoſe Doctor <hi>Holdſworth</hi> was one, by what I found under his hand annexed.</p>
+            <p>Thus much I have thought fit to advertiſe, as the cauſes neceſsitating me to the reprinting of it, and to deſire the Reader upon this occaſion, not to give credit hereafter to things of this nature, which ſhall be publiſhed in this moſt Reverend Primates name, without the Approbation of ſuch as are ap<g ref="char:EOLhyphen"/>pointed for that end.</p>
+            <p>And now if this (which is a Copy according to his own laſt correction) may anſwer the expecta<g ref="char:EOLhyphen"/>tion of many pious and prudent perſons, to be a ſeaſonable preparative to ſome <hi>moderation</hi> in the midſt of thoſe <hi>extreams</hi> which this Age abounds with, it will attain the end intended by the Au<g ref="char:EOLhyphen"/>thor: And it is likely to be the more operative, by the great reputation he had and hath in the hearts of all good men, being far from the leaſt ſuſpicion to be byaſſed by any private ends, but only aiming at the reducing of <hi>Order, Peace,</hi> and <hi>Unity, which God is the Author of,</hi> and not of confuſion. For the recovery of which,
+<pb facs="tcp:168431:4"/>
+               <!-- PDF PAGE 108 -->it were to be wiſhed, that ſuch as do conſent in <hi>Subſtantials</hi> for matter of <hi>Doctrine,</hi> would con<g ref="char:EOLhyphen"/>ſider of ſome <hi>conjunction</hi> in point of <hi>Diſci<g ref="char:EOLhyphen"/>pline,</hi> that private intereſts and <hi>circumſtan<g ref="char:EOLhyphen"/>tials,</hi> might not keep them thus far aſun<g ref="char:EOLhyphen"/>der.</p>
+            <closer>
+               <dateline>Grayes Inne, <date>Dec. 2.1656.</date>
+               </dateline>
+               <signed>N. Bernard.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168431:4"/>
+            <!-- PDF PAGE 108 -->
+            <head>The Reduction of Epiſcopacy unto the forme of Synodical Government received in the ancient Church; propoſed in the year <hi>1641.</hi> as an Ex<g ref="char:EOLhyphen"/>pedient for the prevention of thoſe troubles which afterwards did ariſe about the matter of Church-Government.</head>
+            <head type="sub">Epiſcopal and Presbyterial Govern<g ref="char:EOLhyphen"/>ment conjoyned.</head>
+            <p>BY Order of the Church of <hi>England,</hi> all Presbyters are charged<note n="a" place="margin">The book of Ordination.</note> 
+               <hi>to adminiſter the Doctrine and Sacraments, and the Diſcipline of Chriſt as the Lord hath commanded, and as this Realm hath received the ſame;</hi> And that they might the better underſtand what the <hi>Lord had commanded</hi> therein,<note n="b" place="margin">Ibid. ex Act. <hi>20.27, 28.</hi>
+               </note> the exhortation of St. <hi>Paul</hi>
+               <pb n="2" facs="tcp:168431:5"/>
+               <!-- PDF PAGE 109 -->to the Elders of the Church of <hi>Epheſus</hi> is appointed to be read unto them at the time of their Ordination; <hi>Take heed unto your ſelves and to all the flock among whom the Holy Ghoſt hath made you overſeers to</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſo taken in Mat. 2.6. &amp; Rev. 12.5. &amp; 19.15.</note> Rule <hi>the Congregation of God which he hath purchaſed with his Bloud.</hi>
+            </p>
+            <p>Of the many Elders who in common thus ruled the Church of <hi>Epheſus,</hi> there was one <hi>Preſident</hi> whom our <hi>Saviour</hi> in his Epiſtle unto this Church in a pe<g ref="char:EOLhyphen"/>culiar manner ſtileth<note n="c" place="margin">Rev. 2.1.</note> 
+               <hi>the Angel of the Church of Ephe<g ref="char:EOLhyphen"/>ſus:</hi> and <hi>Ignatius</hi> in another Epiſtle written about twelve years after unto the ſame Church, calleth the <hi>Biſhop</hi> thereof. Betwixt the Biſhop and the Presbytery of that Church, what an harmonious conſent there was in the ordering of the Church Government, the ſame <hi>Ignatius</hi> doth fully there declare, by the Presbytery, with<note n="d" place="margin">1 Tim. 4.14.</note> St. <hi>Paul,</hi> under<g ref="char:EOLhyphen"/>ſtanding the community of the reſt of the <hi>Presbyters</hi> or <hi>Elders,</hi> who then had a hand not only in the delivery of the <hi>Doctrine,</hi> and <hi>Sacraments,</hi> but alſo in the Ad<g ref="char:EOLhyphen"/>miniſtration of the <hi>Diſcipline of Chriſt:</hi> for further proof of which, we have the known teſtimony of <hi>Tertullian</hi> in his general A<g ref="char:EOLhyphen"/>pology for Chriſtians.<note n="e" place="margin">Ibidem etiam exhortationes, caſtigationes &amp; cenſura divina; nam &amp; judicatur magno cum pondere ut apud certos de Dei cenſpectu, ſummum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> futuri judicii praejudicium eſt, ſi quis ita deliquerit, ut à communicatione orationis, &amp; cenventus, &amp; om<g ref="char:EOLhyphen"/>nis ſancti commercii relegetur: praeſident probati quique ſeniores, honorem iſtum non pretio, ſed Teſti<g ref="char:EOLhyphen"/>monio adepti. <hi>Tertul. Apologet. cap.</hi> 39.</note> 
+               <hi>In the Church are uſed ex<g ref="char:EOLhyphen"/>hortations, chaſtiſements, and divine cenſure; for Judge<g ref="char:EOLhyphen"/>ment is given with great ad<g ref="char:EOLhyphen"/>vice as among thoſe who are certain they are in the ſight of God, and it is the chiefeſt foreſhewing of the Judgement which is to come, if any man have ſo offended, that he be baniſh<g ref="char:EOLhyphen"/>ed</hi>
+               <pb n="3" facs="tcp:168431:5"/>
+               <!-- PDF PAGE 109 -->
+               <hi>from the Communion of Prayer, and of the Aſsem<g ref="char:EOLhyphen"/>bly, and of all holy fellowſhip. The Preſidents that bear rule therein are certain approved Elders, who have obtained this honour not by reward, but by good report,</hi> who were no other (as he himſelf intimates) elſewhere, but<note n="f" place="margin">Nec de alio<g ref="char:EOLhyphen"/>rum manibus quam praeſiden<g ref="char:EOLhyphen"/>tium ſumimus, Id. de corona militis, <hi>cap.</hi> 3.</note> thoſe <hi>from whoſe hands</hi> they uſed to re<g ref="char:EOLhyphen"/>ceive the Sacrament of the <hi>Euchariſt.</hi>
+            </p>
+            <p>For with the <hi>Biſhop</hi> who was the chief Preſi<g ref="char:EOLhyphen"/>dent (and therefore ſtiled by the ſame <hi>Tertullian</hi> in another place<note n="g" place="margin">Dandi quidem Baptiſmi habet jus ſumus ſacerdes qui eſt Epiſcopus, de<g ref="char:EOLhyphen"/>hinc Presbyteri &amp; Diaconi, Id. de Baps. capt. <hi>17.</hi>
+               </note> 
+               <hi>Summus Sacerdos</hi> for diſtinction ſake) the reſt of the diſpenſers of the Word and Sa<g ref="char:EOLhyphen"/>craments joyned in the common government of the Church; and therefore where, in matters of Eccleſiaſtical Judicature, <hi>Cornelius</hi> Biſhop of <hi>Rome</hi> uſed the received forme of<note n="h" place="margin">Omni actu ad me perlato placuit contrahi Presbyterium, <hi>Cornel. apud Cyp. epiſt. 46.</hi>
+               </note> 
+               <hi>gathering together the Presby<g ref="char:EOLhyphen"/>tery;</hi> of what perſons that did con<g ref="char:EOLhyphen"/>ſiſt, <hi>Cyprian</hi> ſufficiently declareth, when he wiſheth him to read his Letters<note n="i" place="margin">Florentiſſimo illic clero tecum prae<g ref="char:EOLhyphen"/>ſidenti. <hi>Cyprian epiſt. 55. ad Cornel.</hi>
+               </note> 
+               <hi>to the flouriſhing Clergy which there did preſide</hi> or rule <hi>with him:</hi> The Preſence of the <hi>Clergy</hi> being thought to be ſo requiſite in matters of Epiſcopal audience, that in the fourth Councel of <hi>Carthage</hi> it was concluded,<note n="k" place="margin">Ut Epiſcopus nullius cauſam audiat abſque praeſentia Clericorum ſuorum, alioquin irrita erit ſententia Epiſcopi niſi Clericorum praeſentiá confirmetur, <hi>Concil. Carthag. IIII. cap. 23.</hi>
+               </note> 
+               <hi>That the Biſhop might hear no mans cauſe without the preſence of the Clergy: and that otherwiſe the Biſhops ſentence ſhould be void, unleſſe it were confirmed by the preſence of the Clergy:</hi> which we finde alſo to be inſerted into the Ca<g ref="char:EOLhyphen"/>nons of<note n="l" place="margin">Excerption. Egberti cap. 43.</note> 
+               <hi>Egbert,</hi> who was Arch-biſhop of <hi>York</hi> in
+<pb n="4" facs="tcp:168431:6"/>
+               <!-- PDF PAGE 110 -->the <hi>Saxon</hi> times, and afterwards into the body of the<note n="m" place="margin">15. q. 7. cap. Nullus.</note> 
+               <hi>Canon Law</hi> it ſelf.</p>
+            <p>True it is, that in our Church this kinde of Presby<g ref="char:EOLhyphen"/>terial Government-hath been long diſ-uſed, yet ſeeing it ſtill profeſſeth that every Paſtor hath a right to <hi>rule</hi> the church (from whence the name of <hi>Rector</hi> alſo was given at firſt unto him) and to adminiſter the <hi>Diſci<g ref="char:EOLhyphen"/>pline of Christ,</hi> as well as to diſpenſe <hi>the Doctrine and Sacraments,</hi> and the reſtraint of the exerciſe of that right proceedeth only from the cuſtome now <hi>received in this Realm;</hi> no man can doubt but by another Law of the Land, this hinderance may be well removed. And how eaſily this ancient form of government by the united ſuffrages of the Clergy might be revived again, and with what little ſhew of alteration the Sy<g ref="char:EOLhyphen"/>nodical conventions of the Paſtors of every Pariſh might be accorded with the Preſidency of the Bi<g ref="char:EOLhyphen"/>ſhops of each Dioceſe and Province, the indifferent Reader may quickly perceive by the peruſal of the enſuing Propoſitions.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>In every Pariſh the Rector or Incumbent Paſtor, together with the Churchwardens and Sideſmen, may every week take notice of ſuch as live ſcandalouſly in that Congregation, who are to receive ſuch ſeveral ad<g ref="char:EOLhyphen"/>monitions and reproofs, as the quality of their of<g ref="char:EOLhyphen"/>fence ſhall deſerve; And if by this means they cannot be reclaimed, they may be preſented to the next moneth<g ref="char:EOLhyphen"/>ly Synod; and in the mean time debarred by the Paſtor from acceſs unto the Lords Table.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="5" facs="tcp:168431:6"/>
+               <!-- PDF PAGE 110 -->
+               <head>II.</head>
+               <p>Whereas by a Statute in the 26 year of King <hi>Henry</hi> the eighth (revived in the firſt year of Queen <hi>Elizabeth</hi>) <hi>Suffragans</hi> are appointed to be erected in 26 ſeveral pla<g ref="char:EOLhyphen"/>ces of this Kingdom; the number of them might very well be conformed unto the number of the ſeveral Rural Deanries into which every Dioceſe is ſubdivi<g ref="char:EOLhyphen"/>ded; which being done, the <hi>Suffragan</hi> ſupplying the place of thoſe who in the ancient Church were called <hi>Chorepiſcopi,</hi> might every moneth aſſemble a Synod of all the Rectors, or Incumbent Paſtors within the Precinct, and according to the major part of their voices, conclude all matters that ſhall be brought into debate before them.</p>
+               <p>To this Synod the Rector and Churchwardens might preſent ſuch impenitent perſons as by admonitions and ſuſpenſion from the Sacrament would not be reformed; who if they ſhould ſtill remain contumacious and in<g ref="char:EOLhyphen"/>corrigible, the ſentence of Excommunication might be decreed againſt them by the Synod, and accordingly be executed in the Pariſh where they lived. Hitherto alſo all things that concerned the Parochial Miniſters might be referred, whether they did touch their doctrine or their converſation; as alſo the cenſure of all new Opi<g ref="char:EOLhyphen"/>nions, Hereſies, and Schiſms, which did ariſe within that Circuit; with liberty of Appeal, if need ſo require, un<g ref="char:EOLhyphen"/>to the <hi>Dioceſan</hi> Synod.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="6" facs="tcp:168431:7"/>
+               <!-- PDF PAGE 111 -->
+               <head>III.</head>
+               <p>The <hi>Dioceſan</hi> Synod might be held once or twice in the year, as it ſhould be thought moſt convenient: Therein all the Suffragans, and the reſt of the Rectors or Incumbent Paſtors (or a certain ſelect number, of every Deanry) within the Dioceſe might meet, with whoſe conſent, or the major part of them all things might be concluded by the Biſhop or<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> id eſt, ſu<g ref="char:EOLhyphen"/>perintendentes; unde &amp; nomen Epiſcopi tra<g ref="char:EOLhyphen"/>ctum eſt. <hi>Hie<g ref="char:EOLhyphen"/>ron. epiſt. 85. ad Evagrium.</hi>
+                  </note> 
+                  <hi>Superinten<g ref="char:EOLhyphen"/>dent</hi> (call him whether you will) or in his abſence, by one of the Suffragans; whom he ſhall depute in his ſtead to be Moderator of that Aſſembly.</p>
+               <p>Here all matters of greater moment might be taken into conſideration, and the Orders of the monethly Sy<g ref="char:EOLhyphen"/>nods reviſed, and (if need be) reformed: and if here alſo any matter of difficulty could not receive a full de<g ref="char:EOLhyphen"/>termination: it might be referred to the next <hi>Provin<g ref="char:EOLhyphen"/>cial</hi> or <hi>National</hi> Synod.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>The <hi>Provincial</hi> Synod might conſiſt of all the Bi<g ref="char:EOLhyphen"/>ſhops and Suffragans, and ſuch other of the Clergy as ſhould be elected out of every Dioceſe within the Province, the Archbiſhop of either Province might be the Moderator of this meeting (or in his room ſome one of the Biſhops appointed by him) and all matters be ordered therein by common conſent as in the former Aſſemblies.</p>
+               <p>
+                  <pb n="7" facs="tcp:168431:7"/>
+                  <!-- PDF PAGE 111 -->
+This Synod might be held every third year, and if the Parliament do then ſit (according to the Act of a <hi>Triennial</hi> Parliament) both the Archbiſhops and Pro<g ref="char:EOLhyphen"/>vincial Synods of the Land might joyn together, and make up a National Councel: Wherein all Appeals from inferior Synods might be received, all their Acts examined and all Eccleſiaſtical conſtitutions which concern the ſtate of the Church of the whole Nation eſtabliſhed.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="notice">
+            <p>WE are of the Judgement that the Form of Government here propoſed is not in any point repugnant to the Scripture; and that the Suffragans mentioned in the ſecond Propoſi<g ref="char:EOLhyphen"/>tion, may lawfully uſe the power both of Juriſ<g ref="char:EOLhyphen"/>diction and Ordination, according to the Word of God and the practiſe of the ancient Church.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
